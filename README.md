@@ -17,36 +17,13 @@ Here’s a complete example of a `README.md` for your **BakeryManager Android Ko
 - SQLite-based local database
 - User-friendly UI using Android Activities
 
-## 🧱 Project Structure
 
-```
-
-BakeryManager-android-Kotlin/
-│
-├── app/
-│   └── src/
-│       └── main/
-│           ├── java/com/example/backerymanagment/
-│           │   ├── AddNewCustomerActivity.kt
-│           │   ├── AddNewEmployeeActivity.kt
-│           │   ├── ...
-│           ├── res/
-│           └── AndroidManifest.xml
-├── build.gradle
-├── settings.gradle
-└── screenshot/
-├── main1.png
-├── main2.png
-├── main3.png
-└── main4.png
-
-```
 
 ## 🖼️ Screenshots
 
 | Home Page | Add Sale | Sales List | Reports |
 |-----------|----------|------------|---------|
-| ![Home](screenshot/main1.png) | ![Add Sale](screenshot/main2.png) | ![Sales List](screenshot/main3.png) | ![Reports](screenshot/main4.png) |
+| ![Home](main1.png) | ![Add Sale](main2.png) | ![Sales List](main3.png) | ![Reports](main4.png) |
 
 ## ⚙️ How to Build
 
