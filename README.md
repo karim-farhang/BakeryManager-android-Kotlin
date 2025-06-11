@@ -25,9 +25,13 @@ Here’s a complete example of a `README.md` for your **BakeryManager Android Ko
 |-----------|----------|------------|---------|
 
 ![Home](main1.png)
+*(Home page to have routing to add section)*
 ![Add Sale](main2.png)
+*(Sale management)*
 ![Sales List](main3.png)
+*(Listing the sales with update and delate)*
 ![Reports](main4.png)
+*(Report generation)*
 
 ## ⚙️ How to Build
 
