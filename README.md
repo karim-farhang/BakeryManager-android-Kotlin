@@ -23,7 +23,11 @@ Here’s a complete example of a `README.md` for your **BakeryManager Android Ko
 
 | Home Page | Add Sale | Sales List | Reports |
 |-----------|----------|------------|---------|
-| ![Home](main1.png) | ![Add Sale](main2.png) | ![Sales List](main3.png) | ![Reports](main4.png) |
+
+![Home](main1.png)
+![Add Sale](main2.png)
+![Sales List](main3.png)
+![Reports](main4.png)
 
 ## ⚙️ How to Build
 
