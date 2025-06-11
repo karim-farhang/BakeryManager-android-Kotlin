@@ -46,7 +46,7 @@ BakeryManager-android-Kotlin/
 
 | Home Page | Add Sale | Sales List | Reports |
 |-----------|----------|------------|---------|
-| ![Home](./screenshot/main1.png) | ![insert](./screenshot/main2.png) | ![listing](./screenshot/main3.png) | ![report](./screenshot/main4.png) |
+| ![Home](./screenshot/main1.png) | ![Add Sale](./screenshot/main2.png) | ![Sales List](./screenshot/main3.png) | ![Reports](./screenshot/main4.png) |
 
 ## ⚙️ How to Build
 
