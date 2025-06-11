@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".customerUpdateActivity">
+
+
+    <EditText
+        android:id="@+id/update_txt_name"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="5dp"
+        android:autofillHints="name"
+        android:hint="@string/customer"
+        android:inputType="text"
+        android:textDirection="anyRtl" />
+
+    <EditText
+        android:id="@+id/update_txt_address"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="5dp"
+        android:autofillHints="name"
+        android:hint="@string/custmer_address"
+        android:inputType="text"
+        android:textDirection="anyRtl" />
+
+
+    <EditText
+        android:id="@+id/update_txt_phone"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="5dp"
+        android:autofillHints="name"
+        android:hint="@string/customer_phone"
+        android:inputType="number"
+        android:textDirection="anyRtl" />
+
+    <EditText
+        android:id="@+id/update_txt_date"
+        android:layout_width="300dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="5dp"
+        android:autofillHints="name"
+        android:hint="@string/customer_rag_date"
+        android:inputType="date"
+        android:textDirection="anyRtl" />
+
+    <EditText
+        android:id="@+id/update_txt_description"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="5dp"
+        android:autofillHints="name"
+        android:gravity="top"
+        android:hint="@string/customer_disd"
+        android:inputType="textMultiLine"
+        android:textDirection="anyRtl" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/update_btn_save"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginEnd="15dp"
+            android:text="@string/save" />
+
+        <Button
+            android:id="@+id/update_btn_clear"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginStart="15dp"
+            android:text="@string/clear" />
+    </LinearLayout>
+
+</LinearLayout>

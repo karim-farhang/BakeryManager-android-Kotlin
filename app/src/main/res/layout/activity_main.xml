@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnMaterial"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="@string/btn1" />
+
+    <Button
+        android:id="@+id/btnLoans"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="@string/btn2" />
+
+
+    <Button
+        android:id="@+id/btnSale"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="@string/sales" />
+
+    <Button
+        android:id="@+id/btnCustomer"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="@string/btn5" />
+
+    <Button
+        android:id="@+id/btnEmployee"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="@string/btnEmployee" />
+
+    <Button
+        android:id="@+id/btnReport"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:text="@string/شسش"
+        android:textColor="@color/white" />
+
+</LinearLayout>
